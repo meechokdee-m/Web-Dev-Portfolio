@@ -10,7 +10,7 @@ skills, and engineering projects in a clean and structured format.
 - Simple and readable UI
 
 ## Tech Stack
-- **Languages**: HTML5, CSS3, JavaScript
+- **Languages**: HTML, CSS, JavaScript
 - **Styling**: CSS Variables, Responsive Layout
 - **Functionality**: JavaScript (DOM manipulation, localStorage)
 - **Tools**: Git, GitHub, VS Code
